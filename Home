@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Business Solutions - Unlock Business Growth</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #50b3a2;
+            color: white;
+            text-align: center;
+            padding: 1em;
+            font-size: 2em;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        ul, ol {
+            margin-bottom: 20px;
+        }
+        .cta-button {
+            background-color: #50b3a2;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        Business Solutions - Unlock Business Growth
+    </header>
+
+    <section>
+        <h1>🌟 Unlock Business Growth with Personalized Tech Consultation! 🌟</h1>
+        <p>Are you a small business owner above the age of 50? Take control of your tech challenges with our 1-on-1 Technology Consultation Program. Designed specifically for older entrepreneurs, we're here to help you make sense of the digital landscape.</p>
+    </section>
+
+    <section>
+        <h2>💡 What You'll Get:</h2>
+        <ul>
+            <li>✅ Tailored Tech Solutions to Boost Your Revenue</li>
+            <li>✅ One-Hour Consultations to Address Your Specific Needs</li>
+            <li>✅ Demystifying ChatGPT, AI Automation, and No-Code Technology</li>
+            <li>✅ A Guide to Streamline Operations Using Technology</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>📞 How to Dive In:</h2>
+        <ol>
+            <li>1️⃣ Check If You Qualify: Fill out our quick eligibility form online.</li>
+            <li>2️⃣ Schedule a Chat: Pick a convenient time for a one-hour consultation with a seasoned tech advisor.</li>
+            <li>3️⃣ Implement & Thrive: Apply the actionable insights to watch your business grow!</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>🔒 Secure Your Business Future:</h2>
+        <p>Don't wait—complete the form today and let our tech experts pave the way for your business transformation. We're committed to making technology manageable and profitable for small business owners like you. #TechMadeEasy #BusinessGrowth #TimeToThrive</p>
+        <a href="#form" class="cta-button">Sign Up Now</a>
+    </section>
+
+    <section id="form">
+        <!-- Include your form here. For example, you might use a service like Typeform or create your own HTML form. -->
+    </section>
+
+</body>
+</html>
